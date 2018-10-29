@@ -5,16 +5,16 @@ export default class Matrix extends Component {
 
   static defaultProps = {
     values: [
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO'],
-    ['#FOO', '#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO','#FOO']
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00'],
+    ['#F00', '#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00']
     ]
   }
 
