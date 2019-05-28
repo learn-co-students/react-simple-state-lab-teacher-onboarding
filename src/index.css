@@ -30,4 +30,5 @@ body, html, #root {
 .cell {
   width: 80px;
   height: 80px;
+  border: 1px black solid;
 }
